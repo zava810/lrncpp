@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669544621 source:/home/viml/maigit/gb/lrncpp/lrn_c11spointers/src/ctask.cpp
+	"ctask.h"
+	<iostream>
+
+1669545109 /home/viml/maigit/gb/lrncpp/lrn_c11spointers/include/ctask.h
+
+1669545972 source:/home/viml/maigit/gb/lrncpp/lrn_c11spointers/main.cpp
+	<iostream>
+	<memory>
+	"ctask.h"
+
